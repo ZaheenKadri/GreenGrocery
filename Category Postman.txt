@@ -1,0 +1,44 @@
+Category Postman
+
+[
+  {
+    "name": "BAKERY",
+    "img": "/041-bun-bread-80x80.png"
+  },
+  {
+    "name": "BREAD",
+    "img": "/020-bread-80x80.png"
+  },
+  {
+    "name": "CANDY",
+    "img": "/047-candies-80x80.png"
+  },
+  {
+    "name": "COFFEE",
+    "img": "/037-coffee-pack-80x80.png"
+  },
+  {
+    "name": "DAIRY & EGGS",
+    "img": "/005-eggs-basket-80x80.png"
+  },
+  {
+    "name": "FRESH PRODUCE",
+    "img": "/042-fruit-80x80.png"
+  },
+  {
+    "name": "FROZEN",
+    "img": "/045-ice-cream-cone-80x80.png"
+  },
+  {
+    "name": "MEAT & FISH",
+    "img": "/050-roasted-chicken-80x80.png"
+  },
+  {
+    "name": "MEAT & SEAFOODS",
+    "img": "/022-tuna-can-80x80.png"
+  },
+  {
+    "name": "ORGANIC FOODS",
+    "img": "/043-berries-80x80.png"
+  }
+]
